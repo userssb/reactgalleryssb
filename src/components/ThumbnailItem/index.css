@@ -1,0 +1,16 @@
+.thumb-image {
+  width: 60px;
+  height: 62px;
+  margin-left: 5px;
+  border-style: none;
+  opacity: 0.5;
+}
+.button {
+  background-color: transparent;
+  border-style: none;
+  cursor: pointer;
+  outline: none;
+}
+.active {
+  opacity: 1;
+}

@@ -1,0 +1,25 @@
+.bg-cont {
+  display: flex;
+  justify-content: center;
+}
+
+.app-cont {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  align-items: center;
+}
+
+.selected-image {
+  width: 350px;
+  height: 300px;
+  border-radius: 10px;
+}
+.list-container {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+  margin-left: 120px;
+}
